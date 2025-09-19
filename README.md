@@ -25,7 +25,3 @@ It includes **data cleaning, standardization, and analytical queries** to ensure
 ## 🛠️ Tech Stack
 - **Database:** Microsoft SQL Server (or MySQL/PostgreSQL compatible)  
 - **Query Language:** SQL (DDL, DML, DQL)  
-
----
-
-## 📂 Project Structure
